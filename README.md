@@ -117,3 +117,6 @@ bundle install
 bundle fund
 bundle exec jekyll serve
 ```
+
+#My notes on observations
+- .md files contain contents
