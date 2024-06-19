@@ -8,4 +8,4 @@ Getting US sim card is important for getting mobile data. You'll need it to open
 
 ## Open a Bank account 
 Opening a bank account can help you receive your stipend more easily and exchange money with other people using Zelle.
-*ask for the name of the bank that does not require ssn and put the address or map *
+*ask for the name of the bank that does not require ssn and put the address or map*
