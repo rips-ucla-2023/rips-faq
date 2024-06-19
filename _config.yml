@@ -17,7 +17,7 @@ title: RIPS-UCLA FAQ
 description: Research in Industrial Projects (RIPS) UCLA 2023 Frequently Asked Questions.
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mariapasaylo.github.io/ripsfaq" # the base hostname & protocol for your site, e.g. http://example.com
-repository: just-the-docs/just-the-docs # for github-metadata
+#repository: just-the-docs/just-the-docs # for github-metadata
 permalink: pretty
 
 aux_links: # remove if you don't want this link to appear on your pages
