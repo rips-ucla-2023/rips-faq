@@ -8,4 +8,6 @@ Getting US sim card is important for getting mobile data. You'll need it to open
 
 ## Open a Bank account 
 Opening a bank account can help you receive your stipend more easily and exchange money with other people using Zelle. You can open a Chase bank account without a Social Security number, There's a Chase bank in Westwood that you can walk to.
- 
+
+## Get a Cerdit or Debit Card
+Make sure to have a credit or debit card as many places do not accept cash. 
