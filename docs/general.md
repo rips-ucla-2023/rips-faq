@@ -8,7 +8,7 @@ nav_order: 2
 
 
 ## Where's the nearest urgent/immediate care?
-- [UCLA Health Westwood Immediate care](https://www.uclahealth.org/locations/westwood-immediate-care)
+- [UCLA Health Westwood Immediate care](https://www.uclahealth.org/locations/westwood-immediate-care). Call them before you go.
 
 
 ## Which gyms/workout areas do we have access to? 
@@ -26,9 +26,15 @@ They have pools and beach volleyball.
 
 
 
-## How to get around LA and the UCLA campus?
-Google maps is your friend. We highly recommend getting the following for the bus/subway
+## How to get around LA?
+Google maps is your best friend. We highly recommend getting the following for bus and other public transportation:
+- [TAP Card](https://www.taptogo.net/articles/en_US/Website_content/TAP-App): To pay for transit.
+- [Transit](https://transitapp.com/): For real-time info on departure times, track buses and trains, and see upcoming schedules.
+
 
 ## How to get around the UCLA campus?
 If you are tired of going up the hills or have luggage, there are elevators but they are not so obvious.
+There is one going up to DeNeve:
+*insert image of map here*
+To go to IPAM:
 *insert image of map here*
