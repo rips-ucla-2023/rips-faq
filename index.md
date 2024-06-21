@@ -13,7 +13,7 @@ This FAQ is answered by the RIPS UCLA 2023 Cohort. Feel free to [email us](mailt
 {: .fs-6 .fw-300 }
 
 
-{: .important }
+{: .highlight }
 This site is under construction. Come back soon for updates!
 
 ----
