@@ -10,7 +10,7 @@ nav_order: 4
 ## What did you do on the weekends?
 
 These are some activities in LA that we enjoyed on the weekends:
-- **The Hammer Museum**:Located in Westwood (walking distance from UCLA). The museum is open on Thursday evenings for free summer concerts.
+- **The Hammer Museum**: Located in Westwood (walking distance from UCLA). The museum is open on Thursday evenings for free summer concerts.
 - **The Getty Museum and Getty Villa**: Two really cool museums. The Getty Villa is centered on ancient Greek and Roman artifacts and the Getty has a variety of art from many different time periods. Both are free, but note that you need to make a reservation for a time slot in advance. 
 - **Will Rogers State Park**: Accessible by bus, has a short 2 mile loop with a connecting trail where you can go on for many miles.
 - **Santa Monica Beach**: This beach is the closest to IPAM, only 30 minutes away by bus. 
@@ -20,7 +20,7 @@ These are some activities in LA that we enjoyed on the weekends:
 ## What are your recommendations for places to eat?
 
 Here are some places we went to (Note that these places do not take bruin cards):
-- [Messob](https://maps.app.goo.gl/2nvqaAF8MLR4EyYj7).
+- [Messob](https://maps.app.goo.gl/2nvqaAF8MLR4EyYj7)
 - [Hangry Moon's](https://maps.app.goo.gl/epLQmuHkvuCs3pWx5)
 - [Pailin Thai Cuisine](https://maps.app.goo.gl/8ihetB2pcYSBKdDq7)
 - [Bollywood Bites](https://maps.app.goo.gl/RoWAMACtEFGR3EmJ7)
@@ -29,6 +29,6 @@ Here are some places we went to (Note that these places do not take bruin cards)
 
 ## What are some destinations that are worth checking out at least once?
 
-- The Hollywood Sign. Warning: this is not for the weak. Bring LOTS of water.
+- The Hollywood Sign. ***Warning: this is not for the weak. Bring LOTS of water.***
 - Griffith Observatory.
 - Hollywood Walk of Fame.
