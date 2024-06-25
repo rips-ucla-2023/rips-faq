@@ -22,7 +22,7 @@ This is where we often played football :soccer: . Note: If you need ice packs, a
 They have pools and beach volleyball.
 
 
-## Which places accept Bruin cards for food?
+## Which places accept Bruin cards?
 
 Most places on campus accept Bruin card as long as you use it to buy food. They have the full list [here](https://www.asucla.ucla.edu/locations). Here are some of our favorite places:
 -  [Kerckhoff Coffee House](https://www.uclahealth.org/hospitals/reagan/patients-visitors/dining-commons)
