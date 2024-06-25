@@ -41,6 +41,10 @@ Google maps is your best friend. We highly recommend getting the following for t
 ## How to get around the UCLA campus?
 If you are tired of going up the hills or have luggage, there are elevators but they are not easy to find.
 There is an [outdoor elevator at the tennis center](https://maps.app.goo.gl/kbxjYSSYWgfRP5BW8)
-*insert image of map here*
+
+![](../../assets/images/TennisCenter_Street.png)
+![](../../assets/images/TennisCenter_Top.png)
+
 To go to IPAM, you can go through the elevators in [Ackerman Union](https://maps.app.goo.gl/JE81PYugv7DBxWYGA).
-*insert image of Ackerman Union*
+![](../../assets/images/Ackerman.png)
+
