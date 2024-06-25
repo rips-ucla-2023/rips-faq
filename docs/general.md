@@ -33,7 +33,7 @@ Most places on campus accept Bruin card as long as you use it to buy food. They 
 They also have [places off campus that say they accept bruin cards](https://bruincard.ucla.edu/bruincard-merchants), but we were only successful to get it to work at Tender Greens once. Make sure to call the places before you go. The only place off-campus that always worked for us was the [Ronald Regan Hospital Dining Commons](https://www.uclahealth.org/hospitals/reagan/patients-visitors/dining-commons).
 
 ## How to get around LA?
-Google maps is your best friend. We highly recommend getting the following for the bus and other public transportation:
+Most places are walking distance and Google maps is your best friend. We highly recommend getting the following for the bus and other public transportation:
 - [TAP Card](https://www.taptogo.net/articles/en_US/Website_content/TAP-App): To pay for transit.
 - [Transit](https://transitapp.com/): For real-time info on departure times to track buses and trains and see upcoming schedules.
 
