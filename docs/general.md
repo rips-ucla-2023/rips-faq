@@ -39,12 +39,13 @@ Most places are walking distance and Google maps is your best friend. We highly 
 
 
 ## How to get around the UCLA campus?
-If you are tired of going up the hills or have luggage, there are elevators but they are not easy to find.
-There is an [outdoor elevator at the tennis center](https://maps.app.goo.gl/kbxjYSSYWgfRP5BW8)
+Most days the path you will be taking is De Neve <-> IPAM. If you are tired of going up the hills or have luggage, there are elevators but sometimes they are not easy to find. Here are the essential ones for your regular trek:
+
+- There is an [outdoor elevator at the tennis center](https://maps.app.goo.gl/kbxjYSSYWgfRP5BW8)
 
 ![](../../assets/images/TennisCenter_Street.png)
 ![](../../assets/images/TennisCenter_Top.png)
 
-To go to IPAM, you can go through the elevators in [Ackerman Union](https://maps.app.goo.gl/JE81PYugv7DBxWYGA).
+- To go to IPAM, you can go through the elevators in [Ackerman Union](https://maps.app.goo.gl/JE81PYugv7DBxWYGA).
 ![](../../assets/images/Ackerman.png)
 
