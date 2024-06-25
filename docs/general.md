@@ -24,17 +24,23 @@ They have pools and beach volleyball.
 
 ## Which places accept Bruin cards for food?
 
-
+Most places on campus accept Bruin card as long as you use it to buy food. They have the full list [here](https://www.asucla.ucla.edu/locations). Here are some of our favorite places:
+-  [Kerckhoff Coffee House](https://www.uclahealth.org/hospitals/reagan/patients-visitors/dining-commons)
+-  [Ackerman Union](https://maps.app.goo.gl/JE81PYugv7DBxWYGA). We highly recommend Epicuria. They have plenty of fast food options here as well.
+-  [Bombshelter](https://maps.app.goo.gl/FgMtEite6PSEWic76). We often went to Yoshinoya and Blaze Pizza.
+-  [Lu Valle Commons](https://maps.app.goo.gl/BExq2sSbNTMawhmZ6)
+  
+They also have [places off campus that say they accept bruin cards](https://bruincard.ucla.edu/bruincard-merchants), but we were only successful to get it to work at Tender Greens once. Make sure to call the places before you go. The only place off-campus that always worked for us was the [Ronald Regan Hospital Dining Commons](https://www.uclahealth.org/hospitals/reagan/patients-visitors/dining-commons).
 
 ## How to get around LA?
-Google maps is your best friend. We highly recommend getting the following for bus and other public transportation:
+Google maps is your best friend. We highly recommend getting the following for the bus and other public transportation:
 - [TAP Card](https://www.taptogo.net/articles/en_US/Website_content/TAP-App): To pay for transit.
-- [Transit](https://transitapp.com/): For real-time info on departure times, track buses and trains, and see upcoming schedules.
+- [Transit](https://transitapp.com/): For real-time info on departure times to track buses and trains and see upcoming schedules.
 
 
 ## How to get around the UCLA campus?
-If you are tired of going up the hills or have luggage, there are elevators but they are not so obvious.
-There is one going up to DeNeve:
+If you are tired of going up the hills or have luggage, there are elevators but they are not easy to find.
+There is an [outdoor elevator at the tennis center](https://maps.app.goo.gl/kbxjYSSYWgfRP5BW8)
 *insert image of map here*
-To go to IPAM:
-*insert image of map here*
+To go to IPAM, you can go through the elevators in [Ackerman Union](https://maps.app.goo.gl/JE81PYugv7DBxWYGA).
+*insert image of Ackerman Union*
