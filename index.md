@@ -15,8 +15,7 @@ This FAQ is answered by the RIPS UCLA 2023 Cohort. Feel free to [email us](mailt
 
 {: .highlight }
 Check out [General FAQ](https://rips-ucla-2023.github.io/rips-faq/docs/general/), [Tips for International Students](https://rips-ucla-2023.github.io/rips-faq/docs/international-students/), and [Recommendations](https://rips-ucla-2023.github.io/rips-faq/docs/recommendations/). We will add more info for the ***Post RIPS*** tab later on. Come back soon for more updates!
-
-Last updated on: 6/25/24
+Last updated on 6/25/24
 
 ----
 
