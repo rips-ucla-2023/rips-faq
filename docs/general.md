@@ -30,13 +30,15 @@ Most places on campus accept Bruin card as long as you use it to buy food. They 
 -  [Bombshelter](https://maps.app.goo.gl/FgMtEite6PSEWic76). We often went to Yoshinoya and Blaze Pizza.
 -  [Lu Valle Commons](https://maps.app.goo.gl/BExq2sSbNTMawhmZ6)
   
-They also have [places off campus that say they accept bruin cards](https://bruincard.ucla.edu/bruincard-merchants), but we were only successful to get it to work at Tender Greens once. Make sure to call the places before you go. The only place off-campus that always worked for us was the [Ronald Regan Hospital Dining Commons](https://www.uclahealth.org/hospitals/reagan/patients-visitors/dining-commons).
-
+They also have [places off campus that say they accept bruin cards](https://bruincard.ucla.edu/bruincard-merchants), but we were only successful to get it to work at Tender Greens once. We also recommend [Marugame udon - Sawtelle](https://maps.app.goo.gl/Pcos9mV3kJeED69W9). Make sure to call the places before you go. The only place off-campus that always worked for us was the [Ronald Regan Hospital Dining Commons](https://www.uclahealth.org/hospitals/reagan/patients-visitors/dining-commons). 
 ## How to get around LA?
 Most places are walking distance and Google maps is your best friend. We highly recommend getting the following for the bus and other public transportation:
 - [TAP Card](https://www.taptogo.net/articles/en_US/Website_content/TAP-App): To pay for transit.
 - [Transit](https://transitapp.com/): For real-time info on departure times to track buses and trains and see upcoming schedules.
-
+- [MetroLink](https://metrolinktrains.com/ticketsOverview/discounts/everyday-discounts/) If you want to go outside of LA, they have discounts for students. The only downside is that the [LA Union station](https://metrolinktrains.com/rider-info/general-info/stations/l.a.-union-station/) is a bit far. To get to Union station, you can:
+- Take Big Blue Bus Rapid 12 from Westwood Plaza / Strathmore (the station is in front of Luskin) to Westwood / Rancho Park
+- Then take Metro E (yellow) line to 7th St / Metro Center downtown
+* Transfer to the D (purple) line to Union Station
 
 ## How to get around the UCLA campus?
 Most days the path you will be taking is De Neve <-> IPAM. If you are tired of going up the hills or have luggage, there are elevators but sometimes they are not easy to find. Here are the essential ones for your regular trek:
