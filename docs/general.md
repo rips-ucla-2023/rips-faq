@@ -36,9 +36,9 @@ Most places are walking distance and Google maps is your best friend. We highly 
 - [TAP Card](https://www.taptogo.net/articles/en_US/Website_content/TAP-App): To pay for transit.
 - [Transit](https://transitapp.com/): For real-time info on departure times to track buses and trains and see upcoming schedules.
 - [MetroLink](https://metrolinktrains.com/ticketsOverview/discounts/everyday-discounts/) If you want to go outside of LA, they have discounts for students. The only downside is that the [LA Union station](https://metrolinktrains.com/rider-info/general-info/stations/l.a.-union-station/) is a bit far. To get to Union station, you can:
-- Take Big Blue Bus Rapid 12 from Westwood Plaza / Strathmore (the station is in front of Luskin) to Westwood / Rancho Park
-- Then take Metro E (yellow) line to 7th St / Metro Center downtown
-- Transfer to the D (purple) line to Union Station
+  * Take Big Blue Bus Rapid 12 from Westwood Plaza / Strathmore (the station is in front of Luskin) to Westwood / Rancho Park
+  * Then take Metro E (yellow) line to 7th St / Metro Center downtown
+  * Transfer to the D (purple) line to Union Station
 
 ## How to get around the UCLA campus?
 Most days the path you will be taking is De Neve <-> IPAM. If you are tired of going up the hills or have luggage, there are elevators but sometimes they are not easy to find. Here are the essential ones for your regular trek:
