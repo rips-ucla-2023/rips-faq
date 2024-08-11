@@ -15,9 +15,7 @@ This FAQ is maintained by the previous RIPS UCLA Cohort. [Email us](mailto:uclar
 
 
 {: .highlight }
-Congratulations on completing the program 🎉! We updated the [Post RIPS](https://rips-ucla-2023.github.io/rips-faq/docs/post-RIPS/) tab.
-
-Check out [General FAQ](https://rips-ucla-2023.github.io/rips-faq/docs/general/), [Tips for International Students](https://rips-ucla-2023.github.io/rips-faq/docs/international-students/), [Recommendations](https://rips-ucla-2023.github.io/rips-faq/docs/recommendations/) tab for any edits. We might add a Pre RIPS tab for the next cohort. Let us know what we could add to it.
+Congratulations on completing the program 🎉! We updated the [Post RIPS](https://rips-ucla-2023.github.io/rips-faq/docs/post-RIPS/) tab. Check out [General FAQ](https://rips-ucla-2023.github.io/rips-faq/docs/general/), [Tips for International Students](https://rips-ucla-2023.github.io/rips-faq/docs/international-students/), [Recommendations](https://rips-ucla-2023.github.io/rips-faq/docs/recommendations/) tab for any edits. We might add a Pre RIPS tab for the next cohort. Let us know what we could add to it.
 
 ----
 
