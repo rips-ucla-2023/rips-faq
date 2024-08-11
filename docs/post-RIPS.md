@@ -40,7 +40,7 @@ Here are ones that we have heard of:
 - [PosterSmith](https://postersmith.com/). They have high quality cloth posters that are very convenient for travel.
 
 ## How do I get funding for travel to present my work?
-Ask is IPAM and your home institution department first. Some conferences also provide funding, but usually it is not enough. Here are some other ways that can help with travel funds:
+Ask IPAM and your home institution department first. Some conferences also provide funding, but usually it is not enough. Here are some other ways that can help with travel funds:
 - [Society for Industrial and Applied Mathematics](https://www.siam.org/conferences-events/conference-support/travel-and-registration-support/)
 - [European Mathematical Society](https://euromathsoc.org/submit/travel-grant)
 - [Assocation for Women in Mathematics](https://awm-math.org/awards/awm-grants/travel-grants/#:~:text=Applicants%20must%20be%20women%20holding,past%20two%20years%20is%20ineligible)
