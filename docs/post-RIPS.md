@@ -29,6 +29,7 @@ Here are ones that some of us attended:
 - [Regional Mathematics and Statistics Conference](https://mathstats.uncg.edu/rmsc/)
 - [The Mathematics of Various Entertaining Subjects Conference](https://momath.org/moves-conference/)
 - [Gulf Coast Undergraduate Research Symposium](https://gcurs.rice.edu/)
+  
 Here are ones that we have heard of:
 - [Association of Computing and Machinery Conferences](https://dl.acm.org/conferences/upcoming?startPage=3&pageSize=10)
 - [National Conference on Undergraduate Research(NCUR)](https://ncur.secure-platform.com/2024)
