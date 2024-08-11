@@ -7,8 +7,7 @@ nav_order: 5
 # Post RIPS
 
 ## What can I do after RIPS?
-- Publish your work. (Tip: If you feel like your paper is not ready, submit your paper anyway. Apply to different journals/conferences, get feedback, edit, and repeat until you get accepted.)
-- Present at conferences.
+- Publish your work (Tip: If you feel like your paper is not ready, submit your paper anyway. Apply to different journals/conferences, get feedback, edit, and repeat until you get accepted).
 - Apply to more research opportunities. Here are some undergraduate research programs:
   - [Undergraduate Research Opportunities Programme(URO)](https://www.imperial.ac.uk/urop/)
   - [UST Research Internship](https://www.ip-korea.org/impact/cultivating.php)
@@ -20,6 +19,7 @@ nav_order: 5
   - [NSF funded REUs](https://www.nsf.gov/crssprgm/reu/)
   - [Math REU programs](https://sites.google.com/view/mathreu)
   - [Erasmus Mundus](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters)
+- Present at conferences (see below for some suggestions).
 
 ## Which conferences do you recommend that I go to?
 Here are ones that some of us attended:
