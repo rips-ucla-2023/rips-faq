@@ -8,7 +8,7 @@ nav_order: 5
 
 ## What can I do after RIPS?
 - Publish your work (Tip: If you feel like your paper is not ready, submit your paper anyway. Apply to different journals/conferences, get feedback, edit, and repeat until you get accepted).
-- Apply to more research opportunities. Here are some undergraduate research programs:
+- Apply to more research opportunities. Here are some research programs:
   - [Undergraduate Research Opportunities Programme(URO)](https://www.imperial.ac.uk/urop/)
   - [UST Research Internship](https://www.ip-korea.org/impact/cultivating.php)
   - [Undergraduate Student Research Awards(USRA)](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp)
